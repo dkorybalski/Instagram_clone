@@ -11,7 +11,7 @@ gem 'rails', '~> 6.0.0'
 # We will use postrgeSQL as our database in this project
 gem 'pg', '~> 0.18.4'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5'
 # Use bootstrap to create good looking website quicker
